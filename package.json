@@ -1,8 +1,8 @@
 {
-  "name": "awesome-quoatation",
+  "name": "awesome_quoatation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://underdogdude.github.io/awesome-quoatation",
+  "homepage": "https://underdogdude.github.io/AwesomeQuotation",
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
     "gh-pages": "^1.0.0",
