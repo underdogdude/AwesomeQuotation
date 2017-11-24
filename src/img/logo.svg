@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2871.31px" height="387.039px" viewBox="0 0 2871.31 387.039" enable-background="new 0 0 2871.31 387.039"
+	 xml:space="preserve">
+<g>
+	<path fill="#18B1CE" d="M46.475,196.892h156.922c42.915,0,77.705,34.789,77.705,77.705l0,0c0,42.916-34.79,77.707-77.705,77.707
+		H46.475V196.892z"/>
+	<path fill="#18B1CE" d="M281.102,41.48h-156.92c-42.916,0-77.707,34.79-77.707,77.706l0,0c0,42.916,34.791,77.706,77.707,77.706
+		h156.92V41.48z"/>
+	<circle fill="#FFCC01" cx="124.023" cy="119.028" r="77.549"/>
+	<circle fill="#FFCC01" cx="203.553" cy="274.542" r="77.548"/>
+</g>
+<g>
+	<polygon fill="#18B1CE" points="1136.738,351.71 1252.611,203.685 1368.482,351.71 	"/>
+	<polygon fill="#FFCC01" points="1136.738,351.886 1380.843,41.22 1136.738,41.22 	"/>
+</g>
+<g>
+	<polygon fill="#FFCC01" points="1989.815,351.71 2105.688,203.685 2221.56,351.71 	"/>
+	<polygon fill="#18B1CE" points="1989.815,351.886 2233.92,41.22 1989.815,41.22 	"/>
+</g>
+<rect x="343.133" y="41.644" fill="#18B1CE" width="108.011" height="310.715"/>
+<path fill="#FFCC01" d="M2587.133,41.22h156.922c42.915,0,77.705,34.789,77.705,77.705l0,0c0,42.916-34.79,77.708-77.705,77.708
+	h-156.922V41.22z"/>
+<rect x="1444.133" y="41.196" fill="#18B1CE" width="108.011" height="310.716"/>
+<rect x="2587.133" y="41.195" fill="#18B1CE" width="108.011" height="310.715"/>
+<g>
+	<rect x="514.732" y="41.852" fill="#FFCC01" width="108.011" height="310.714"/>
+	<path fill="#18B1CE" d="M622.743,41.328c85.746,0,155.258,69.511,155.258,155.258c0,85.746-69.512,155.255-155.258,155.255V41.328z
+		"/>
+</g>
+<g>
+	<rect x="837.756" y="41.847" fill="#FFCC01" width="108.011" height="310.715"/>
+	<rect x="945.767" y="264.675" fill="#18B1CE" width="108.011" height="87.887"/>
+	<rect x="945.767" y="154.952" fill="#18B1CE" width="108.011" height="87.885"/>
+	<rect x="945.767" y="41.847" fill="#18B1CE" width="108.011" height="87.886"/>
+</g>
+<g>
+	<rect x="2297.756" y="41.195" fill="#18B1CE" width="108.011" height="310.714"/>
+	<rect x="2405.767" y="264.025" fill="#FFCC01" width="108.011" height="87.885"/>
+	<rect x="2405.767" y="154.301" fill="#FFCC01" width="108.011" height="87.886"/>
+	<rect x="2405.767" y="41.195" fill="#FFCC01" width="108.011" height="87.886"/>
+</g>
+<g>
+	<defs>
+		<circle id="XMLID_1_" cx="1775.863" cy="196.553" r="155.625"/>
+	</defs>
+	<use xlink:href="#XMLID_1_"  overflow="visible" fill="#18B1CE"/>
+	<clipPath id="XMLID_3_">
+		<use xlink:href="#XMLID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<circle clip-path="url(#XMLID_3_)" fill="#FFCC01" stroke="#FFCC01" stroke-miterlimit="10" cx="1974.828" cy="203.685" r="158.965"/>
+</g>
+<polygon fill="#FFCC01" points="2695.144,351.91 2695.144,196.632 2822.454,351.71 "/>
+</svg>
