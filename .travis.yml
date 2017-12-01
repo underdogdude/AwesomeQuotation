@@ -13,7 +13,7 @@ script: # run after installed
 install:
   npm install -g firebase-tools # install firebase-cli
 after_success:
-- firebase use --token 1/cEl2WPzKZSXRl-S7c2UXLcxdRorLtEm5PpDYS7tGH0M
+- firebase use --token 1/CT11DDgvoverD2sl8GWVtTwgsE4X9XUb1_i2xzAXW2M
  # set firebase token
 - firebase use --add awesome-quotation # set current project
-- firebase deploy --non-interactive --token "1/cEl2WPzKZSXRl-S7c2UXLcxdRorLtEm5PpDYS7tGH0M" # deploy project
+- firebase deploy --non-interactive --token "1/CT11DDgvoverD2sl8GWVtTwgsE4X9XUb1_i2xzAXW2M" # deploy project
