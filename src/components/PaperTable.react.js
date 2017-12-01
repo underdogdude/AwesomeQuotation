@@ -4,7 +4,7 @@ class PaperTable extends Component {
     render() {
         return (
             <div>
-                <div className="row">
+                <div className="row" style={{marginTop: 2 + 'em'}}>
                     <table className="col-md-12 table table-bordered">
                         <thead className="thead-default">
                             <tr>
@@ -15,9 +15,8 @@ class PaperTable extends Component {
                             </tr>
                         </thead>
                         <tbody> 
-                            <tr><td>2</td><td>2</td><td>3</td><td>4</td></tr>
-                            <tr><td>2</td><td>2</td><td>3</td><td>4</td></tr>
-                            <tr><td>2</td><td>2</td><td>3</td><td>4</td></tr>
+                            <tr><td>ออกแบบเว็บไซต์</td><td>ออกแบบและพัฒนาเว็บไซต์ให้ทันกับยุคสมัย</td><td>3</td><td>4</td></tr>
+                            <tr><td>ต่ออายุโดเมน</td><td>ต่ออายุโดเมนและพื้นที่จัดเก็บ</td><td>3</td><td>4</td></tr>
                             <tr><td colSpan="4"></td></tr>
                         </tbody>
                         <tbody> 
@@ -27,14 +26,24 @@ class PaperTable extends Component {
                         </tbody>
                     </table>
                 </div>
-                <div className="row">
+                <div className="row" style={{marginTop: 2 + 'em'}}>
                     <div className="col-md-6">
-                        <textarea>e</textarea>
-                        <textarea>e</textarea>
+                        <textarea>
+                            เงื่อนไขการชำระเงิน
+                        </textarea>
+                        <textarea>
+                            งวดที่ 1 จ่ายให้ 60% ก่อนเริ่มงาน 
+                            งวดที่ 2 จ่ายให้ 40% หลังจากเว็บไซต์เสร็จสมบูรณ์
+                        </textarea>
                     </div>
                     <div className="col-md-6">
-                        <textarea>e</textarea>
-                        <textarea>e</textarea>
+                        <textarea>
+                            วิธีการชำระเงิน
+                        </textarea>
+                        <textarea>
+                                ชำระค่าใช้จ่ายได้ด้วยเงินสด หรือชำระผ่านตู้เอทีเอ็ม Pay-in 
+                                หรือ Internet Banking
+                            </textarea>
                     </div>
                 </div>
             </div>
